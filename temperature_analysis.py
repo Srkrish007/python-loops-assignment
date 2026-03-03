@@ -42,4 +42,3 @@ for temp in temperatures:
         break
     if temp > 30:
         hot_days_before_alert += 1
-:
